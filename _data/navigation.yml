@@ -17,6 +17,8 @@ sidebar-site-map:
     url: /schedule/
   - title: "Syllabus"
     url: /syllabus/
+  - title: "Gradescope"
+    url: "https://gradescope.com"
   - title: "Tech"
     url: /tech/
   - title: "FAQ"
