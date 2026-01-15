@@ -29,8 +29,8 @@ sidebar:
 ## Lecture
 
 
- | Lecture | Dates | Time      | Location    |
- | 12636   | M, W  | _2:00-3:15 | McNulty 106 |
+ | Lecture  | Dates | Time        | Location    |
+ | CSAS2126 | M, W  | 09:30-10:45 | McNulty 106 |
 
 
 
