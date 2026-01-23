@@ -23,406 +23,213 @@ After this course you will know how to:
   1. Analyze the time and space complexity of different algorithms,
      and understand the trade-offs between different data structures
      and algorithms.
-  1. Implement basic algorithms, such as sorting and searching. 
+  1. Implement basic algorithms, such as sorting and searching.
   1. Understand the principles of algorithm design, including
      divide-and-conquer, dynamic programming, and greedy algorithms.
   1. Use data structures and algorithms to solve real-world problems
      in an efficient and effective manner.
 
 This syllabus contains policies and expectations I have established
-for {{ site.title }}. Please read carefully the entire syllabus before
-continuing in this course. I intend for these policies and
-expectations to create a productive learning atmosphere for all
-students. Unless you are prepared to abide by these policies and
-expectations, you risk losing the opportunity to participate further
-in the course. Policies and expectations as set forth in this syllabus
-may be modified at any time by the course instructor. Notice of such
-changes will be made by announcement in class, by written or email
-notice, or by changes to this syllabus posted on the course website.
+for {{ site.title }}. Please read the entire syllabus before
+continuing in this course. Policies and expectations may be modified
+at any time by the course instructor. Notice of such changes will be
+made by announcement in class, by written or email notice, or by
+changes to this syllabus posted on the course website.
 
 ## Contact
 
-The best way to get in contact for personal, private (FERPA, etc)
-messages is via my email address [{{ site.author.emailaddr }}]({{
-site.author.email }}). You should expect a response within 48 hours.
-If I deem it even potentially useful to others, I will likely
-anonymize your letter, answer it in an FAQ post to the class, and
-forward you the link.
+The best way to get in contact for personal, private (FERPA, etc.)
+messages is via my email address [{{ site.author.emailaddr }}]({{ site.author.email }}).
+You should expect a response within 48 hours. If I deem it potentially
+useful to others, I may anonymize your letter, answer it in an FAQ post
+to the class, and forward you the link.
 
-A great regular way to reach out for help is via my [office hours]({{
-site.baseurl }}/office-hours/). Outside of my office hours, you should
-not expect to reach me by MS Teams chat. I rarely check it outside of
-those hours, and will likely not receive your message. 
+A regular way to reach out for help is via my [office hours]({{ site.baseurl }}/office-hours/).
+Outside of my office hours, you should not expect to reach me by MS Teams chat.
 
 ## Additional Support
 
-In addition to lecture, I provide the following additional resources
-for students to avail themselves. Do consider taking regular advantage
-of them.
+In addition to lecture, I provide the following additional resources.
 
 ### Scheduled Office Hours
 
 Course personnel will make ourselves available for 4-6 hours of
-[office hours]({{ site.baseurl}}/office-hours/) available weekly,
-concentrated toward assignment due dates. If our office hours schedule
-in particularly ill-suited to your class schedule, let me know and I
-may be able to adjust them. 
+[office hours]({{ site.baseurl}}/office-hours/) weekly, concentrated
+near assignment due dates. If our office hours schedule is ill-suited
+to your class schedule, let me know and I may be able to adjust it.
 
 ### Textbooks
 
  - Cormen et al. "Introduction to Algorithms, Fourth Edition". MIT Press (2022)
  - Aditya Bhargava. "Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People". Manning Publications (2016).
 
-For the most part lectures are intended to be standalone, with the
-textbook as a supplement for students who want to reinforce their
-learning or go deeper into a topic. Some topics, however, will not be
-covered directly in lecture; you will therefore need to read the
-relevant textbook chapter to be able to understand what follows in
-class. The Cormen text is *comprehensive*, but not always
-easy to approach. Its emphasis is also more on the theoretical side of
-things than this class's. Nonetheless, it is a useful book to have on
-hand for computer scientists, and will supplement our in-class
-activity. The "Grokking" text is intended to give you an easier segue
-into some of those topics.
+For the most part, lectures are intended to be standalone, with the
+textbook as a supplement. Some topics will not be covered directly in
+lecture; you will need to read the relevant textbook chapter before
+class. The Cormen text is comprehensive but theoretical; the Grokking
+text is an easier on-ramp.
 
 ### Supplementary Videos
 
-The great thing about learning elementary data structures and
-algorithms is that so many of these topics are covered so well in
-multiple mediums. I will link to a variety of supplementary videos
-about various {{ site.title }}-related topics. I recommend watching
-them early on; they offer valuable advice that can be quite helpful
-in understanding assignments. 
+I will link to supplementary videos about various {{ site.title }} topics.
+Watch them early; they can help when you study and prepare for quizzes.
 
 
 ## Assessment
 
-This class uses a form of **Specifications Grading** ([Nilson 2015](https://www.amazon.com/Specifications-Grading-Restoring-Motivating-Students/dp/1620362422)). In
-particular, it features mainly qualitative assessment, and does not
-rely on points, percentages, and weighted averages to determine final
-grades.
+### Categories and weights
 
 This is likely quite different from what you have seen in your other
 classes, and will take some getting used to on your part. This system,
 however, has a number of benefits for students---see [Why
 Spec](why-specs**.
 
-### Programming Assignments
+- Mid-term Exam (pen and paper, in class): 20%
+- Final Exam, cumulative (pen and paper): 25%
+- Algorithm Explanation Check (in person, individual): 15%
+- In-class reading quizzes (best 15; about 18–22 offered): 25%
+- Programming homeworks (6 autograded assignments, individual): 15%
 
-This class features five programming homeworks and a final project
-that has a programming component, which chiefly contribute to our
-*functional correctness* learning objective. All programming
-assignments and related sub-assignments (see below) must be done
-individually; see our [Academic Integrity](#academic-integrity) policy
-later.
+Total: 100%.
 
-When evaluating your programming submissions, I will give you feedback
-regarding where they fell short as well as assign the following possible
-outcomes:
+Letter grades are computed from the weighted average using Seton Hall's recommended fixed grade cutoffs:
 
-- *Got it*: your submission implements the specification correctly and
-  in full.
-- *Almost there*: your submission implements the specification with minor mistakes or omissions.
-- *On the way*: your submission has elements of a correct solution, but requires non-trivial further work to be correct and/or complete.
-- *Not yet*: your submission requires significant further work.
-- *Cannot assess*: I could not evaluate your submission as is; repairs are required before I can do so.
-
-Specifics of what is required to achieve each outcome are included in the
-handout for each assignment; our expectations are stated up front, no surprises.
-
-### Resubmissions
-
-Making mistakes and correcting them is a natural part of the learning process.
-An outcome of *On the way* or *Not yet* is **NOT** a failure: it
-just means you still have things to learn from this assignment. Our assignments
-are *intentionally* challenging and our grading is *intentionally*
-strict in order to maximize your learning; it's perfectly normal to not get
-them entirely correct on the first try.
-
-To give you the opportunity to incorporate our feedback and get credit
-for your improved learning, I will allow you to resubmit the code
-portion of each homework one week after the initial deadline. See
-schedule at the end for exact dates. To determine final grades, I
-will use the best of the two outcomes your submissions have achieved.
-
-### Self-Evaluations
-
-Each of the five programming homeworks will be followed by a
-self-evaluation, due one week after the initial deadline.
-Self-evaluations will consist of a few questions about the code you
-turned in. Specifically, the code you turned in for the *first*
-submission, *not* the resubmission, and *not* work in
-progress towards the resubmission. You can download your original
-submission from Canvas if you overwrote/misplaced it.
-
-The purpose of these self-evaluations is to evaluate your submissions
-on *non-functional correctness*: desirable aspects of programs that go
-beyond strictly producing correct answers. Aspects like efficiency,
-testing, robustness, or factoring. In actual programming (i.e., not in
-classes), these are *just as important* (if not *more so*) than raw
-functional correctness. This class will give you opportunities to
-cultivate these skills and habits as you work on assignments.
-
-
-### Project Report
-
-Instead of a self-evaluation, the final project will include a written report
-where you will explain your design and provide rationales for your decisions.
-More details are included in the final project handout.
-
-The final project and its associated report contribute to our
-*evaluation* and *integration* learning objectives.
-
-
-### Worksheets
-
-To evaluate specific aspects of our *theory* learning objective, we
-will have two worksheet-style assignments.
-
-To ensure everyone has a solid theoretical foundation, these
-worksheets will be done as Canvas quizzes with unlimited retries;
-I encourage you to re-do them until you fully understand.
-
+```
+| Letter Grade | Range        |
+|--------------+--------------|
+| A            | 100% to 94%  |
+| A-           | < 94% to 90% |
+| B+           | < 90% to 87% |
+| B            | < 87% to 84% |
+| B-           | < 84% to 80% |
+| C+           | < 80% to 77% |
+| C            | < 77% to 74% |
+| C-           | < 74% to 70% |
+| D+           | < 70% to 67% |
+| D            | < 67% to 64% |
+| D-           | < 64% to 61% |
+| F            | < 61% to 0%  |
+```
 
 ### Exams
 
-We will have two in-person, on-paper midterm exams which will chiefly
-assess our *theory* learning objective. No notes or electronics
-(laptops, calculators, tablets, phones, smart watches, etc.) will be
-allowed during exams. Specifics and logistical details will be
-announced leading to each exam.
+One in-class midterm and one cumulative final, both closed-book and
+closed-notes. No electronics. Show work for partial credit. Dates for
+Exam 1 will be announced in class; the Final Exam follows the
+Registrar schedule.
 
+### In-class reading quizzes
 
-## Final Grades
+At the start of many class meetings we will have a 10-12 minute
+paper quiz on assigned readings and on recent material. Slides are not
+distributed before class; the reading primes the topic that follows in
+the lecture deck. Quizzes are closed-notes. We drop all but your best
+15 quiz scores to cover routine conflicts. No make-ups.
 
-Final letter grades will be determined as follows.
+### Programming Assignments (autograded, pair-programming)
 
-To help you keep track of your progress, please see the self-serve final grade
-worksheet on Blackboard.
+This class features six programming homeworks. Programming assignments are to be done in pairs, chosen at your discretion, and submitted on Gradescope.
 
-### Base Grade
+When evaluating your programming submissions, I will give you feedback regarding where they fell short as well as assign one of the following outcomes:
 
-Your *base grade* will be determined based on your performance on
-homeworks and the final project:
+- Got it: your submission implements the specification correctly and in full.
+- Almost there: your submission implements the specification with minor mistakes or omissions.
+- On the way: your submission has elements of a correct solution, but requires non-trivial further work to be correct and/or complete.
+- Not yet: your submission requires significant further work.
+- Cannot assess: I could not evaluate your submission as is; repairs are required before I can do so.
 
-|               |                 | A-        | B            | C+           | D          |
-|               |                 | Excellent | Good         | Satisfactory | Poor       |
-|---------------|-----------------|-----------|--------------|--------------|------------|
-| Homeworks     | Got it          | all 5     | 3            | 2            | 1          |
-|               | Almost there    | --        | 1            | 1            | 1          |
-|               | On the way      | --        | 1            | 1            | 1          |
-|               | Not Counted     | --        | --           | 1            | 2          |
-|---------------|-----------------|-----------|--------------|--------------|------------|
-| Final Project | Minimum outcome | Got it    | Almost there | On the way   | On the way |
+For grading with points, each outcome maps to a percentage of the assignment’s points:
 
-For example, a student whose homework submissions earned 4 "Got it"
-but one "On the way" and whose project submissions earned an "Almost
-there" would earn a base grade of **B**.
+- Got it = 100%
+- Almost there = 85%
+- On the way = 65%
+- Not yet = 35%
+- Cannot assess = 0% (until repaired and resubmitted as your redo)
 
-Failing to meet the criteria for a D will result in a base grade of **F**.
+Each homework is worth the same share of the “Programming homeworks” category in the grading breakdown. Your score on a homework is the percentage above multiplied by that homework’s points.
 
-**Warning** These criteria put a lot of importance on the final
-project, which is intentional. I find that the learning experiences
-from the project are especially valuable. This course therefore
-considers it very important, and I want you to do so as well.
+### Resubmissions
 
-### Modifiers
+Making mistakes and correcting them is a natural part of the learning process. An outcome of On the way or Not yet is not a failure; it means you still have things to learn.
 
-This base grade will then get adjusted with *modifiers* based on your
-performance in other aspects of the class. Each of these can either
-increase your grade by a partial letter grade, leave your grade
-unchanged, or decrease your grade by a partial letter grade. There are
-a total of six possible modifiers:
+You may resubmit that homework assigment one week after the initial deadline. To determine your recorded homework score, I use the best of the two outcomes (initial or redo) converted by the outcome map above. If your initial outcome was Cannot assess, you must repair it before the redo; otherwise the recorded score remains 0.
 
-EDIT 1/26/24. I edited this table to clarify
+### Autograder and materials protection
 
-|            | **+1**                                    | **+0**                                  | **-1**                 |
-| Worksheets | Both worksheet1 100% and Worksheet 2 100% | Worksheet1 >= 80% and worksheet2 >= 80% | Either worksheet < 80% |
+- Hidden tests and randomized instances are used. Only minimal sample tests are published; full suites and outputs are not released.
+- We may require an in-person spot check where you explain your code. If you cannot explain your own work, the homework score may be set to zero under the academic integrity policy.
+- Do not post prompts, tests, or solutions during or after the term.
 
+### Algorithm explanation check (in person, choose one option)
 
-| **Self evaluations* | Score (out of 5)                | **+1** | **+0** | **-1** |
-|                     | Number of evals scoring 5s      | >= 4   | --     | --     |
-|                     | Number of evals scoring >= 3/5s | --     | >= 3   | <= 2   |
-|                     | Number of evals scoring <= 2/5s | <= 1   | <= 2   | >= 3   |
+Every student must complete one brief, individual, no-notes
+explanation in my office. These will be ~10-minute slots signed up for
+in my office; you'll get one attempt plus one re-try in the following
+week if needed.
 
+<!-- Option A: Pick-from-list algorithm explanation -->
+<!-- - You choose one algorithm from the published list (for example: -->
+<!-- Dijkstra, Kruskal with DSU, open addressing with linear probing, -->
+<!-- red-black tree insert/fixup, dynamic array amortized analysis). -->
+<!-- - In the meeting you will: state the core idea, trace the algorithm on -->
+<!-- a fresh instance I provide, state the key invariant or lemma, give the -->
+<!-- running time, and answer one targeted "what if" variant. -->
 
-If You have at least 4 5s; then you get a 1 pt bonus
-Otherwise. if you have at least 3 on which you scored a 3 or higher and you don't have any that are 2 or below, then you get a +0 modifier (so no damage)
-Otherwise, you must have two or fewer on which you scored a 3 or higher. In this case, you get a -1.
+<!-- Option B: CLRS pseudocode deep dive -->
+<!-- - You are assigned a specific CLRS pseudocode (for example: CLRS 6 -->
+<!-- Build-Heap, CLRS 11 Chained Hash-Insert, CLRS 13 RB-Insert-Fixup). -->
+<!-- - In the meeting you will: explain preconditions, state the loop -->
+<!-- invariants, justify correctness at the level of the book, trace a -->
+<!-- fresh instance, and answer one targeted "what if" variant. -->
 
+#### Scoring and weight
 
-Here "Above expectations" means "a higher outcome than required for
-your base grade."
+This is scored as pass/fail using a simple rubric: idea, trace,
+invariant, what-if. This is a pass requirement. Failing to pass after
+one re-try caps the course grade at D+.
 
-Both worksheets are considered together to determine a single modifier; both
-must meet the expected level. Similarly, all five self-evaluations are
-considered together to determine the self-evaluation modifier. Each exam,
-however, has its own modifier.
+### Preparation and reading
 
-EDIT 01-24-2024
-
-To match the assignment I've handed out, I'll do exam scores out of 20. Depending on the score you earn
-on an exam, its modifier will range from +1 (an increase of one partial
-letter grade) to -3 (a decrease of a full letter grade), with the
-plurality of scores leading to a neutral modifier (no change).
-
-In addition to each exam providing its own modifier, if your
-performance improves significantly between the two exams, you will
-earn a positive +1 modifier. Here, "significantly" means the second
-exam is two modifier steps (or more) above the first one: e.g., going
-from a -1 to a +1, or from a -3 to a 0. That is to say, exam
-improvement only if Exam \#2 modifier is >= Exam \#1 modifier + 2.
-
-
-| See caveat above | **+1**   | **0**    | **-1**  | **-2** | **-3** |
-|------------------|----------|----------|---------|--------|--------|
-| Exam \#1         | 18-20/20 | 12-17/20 | 8-11/20 | 4-7/20 | 0-3/20 |
-| Exam \#2         | 18-20/20 | 12-17/20 | 8-11/20 | 4-7/20 | 0-3/20 |
-|------------------|----------|----------|---------|--------|--------|
-
-
-
-
-Here is how the project grading works. See caveats below.
-
-|                   | **+2**                         | **+1**                        | **0**                            | **-1**                           |
-|-------------------|--------------------------------|-------------------------------|----------------------------------|----------------------------------|
-| Project program   | 2x Above <br /> expectations\* | Above <br /> expectations\*\* | Meets <br /> expectations        |                                  |
-| Project documents |                                | Outstanding                   | Minor errors <br /> or omissions | Major errors <br /> or omissions |
-
-| Caveats | Description                                                                                                   |
-|---------|---------------------------------------------------------------------------------------------------------------|
-| \*      | Base grade requires **On the way**, earned **Got it**.                                                        |
-| \*\*    | Base grade requires **On the way**, earned **Almost there**. Or requires **Almost there**, earned **Got it**. |
-
-
-For example, suppose our hypothetical student who earned a base grade
-of **B** got everything right on both worksheets (**Increase**),
-submitted self-evaluations that earned three 5/5s and two 2/5s
-(**Unchanged**), did poorly on Exam 1 (**Decrease**) but well on exam
-2 (**Unchanged**), and wrote an excellent project report
-(**Increase**). This would work out to an increase of one partial
-letter grade, for a final grade of **B+**. Good job, hypothetical
-student!
-
-
-EDIT 2/5/24
-For a second example we consider another hypothetical student. This
-student received a two "Got it"s two "On the way"s and a "Not yet".
-They scored a 3 on all of their self evals. They had a project score
-of "Almost there" and a positive modifier on their project. They also
-received positive modifiers on both worksheets, and their exams were a
-13 on exam 1 and a 20 on exam 2. That's some nice work on the exam,
-but unfortunately that's still an B-.
-
-
-Going up one partial letter grade means going forward one step in this
-sequence, and going down one letter grade means going backwards one
-step.
-
-The letter grade sequence "saturates" on either end: applying four +
-modifiers to a base of **B** results in an **A**, and applying two -
-modifiers to a base of **D** results in an **F**. 
-
-EDIT: 2/5/24
-
-However, an F will remain an F even in the presence of positive
-modifiers. Which is to say, you cannot modifier your way out of a
-natural F.
-
+Assigned reading will be listed on the Schedule page each week.
+Read before class. Quizzes target that preparation and the previous
+class's content. Slides are not posted before class.
 
 ## Late Policy
 
-Unless otherwise indicated assignments are due by **09:59 p.m.** on
-their due date. Dropboxes will close automatically, and late is late.
+Unless otherwise indicated, assignments are due by 09:59 p.m. on their
+due date. Dropboxes close automatically, and late is late.
 
-To accommodate everyday slippage and minor life hiccups, each student
-starts the class with three *late tokens*. To use it you will need to
-email me your late submission. Each of these late tokens can be
-exchanged for a two-day *no questions asked* extension to any
-(non-exam) assignment, including re submissions. Only one token can be
-used per submission; i.e., two days is the maximum extension possible.
-Late tokens will be used automatically when you submit late; you don't
-need to reach out and ask for permission. This two-day extension will
-begin from the moment you turn something in late; that is to say, your
-extended due date will be 09:59 PM two calendar days after the
-original due date. I will be tracking these late tokens for the class.
+Each student starts with three late tokens. Each token can be exchanged
+for a two-day no questions asked extension on a non-exam assignment,
+including a homework redo. Only one token can be used per submission.
+Late tokens are applied automatically when you submit late. The two-day
+window begins at the time of your late submission. If you run out of
+tokens, I will reach out. Quizzes and exams are in-class and are not
+eligible for late tokens.
 
-In a student runs out of tokens, I'll be in touch. Being occasionally
-late is perfectly fine. Being consistently late, on the other hand,
-may be a sign of deeper underlying issues: let's talk so we can figure
-out the best way to help you.
-
-Barring extreme circumstances, we will not grant further ad-hoc
-extensions or accommodations. If you do end up in a situation that
-would warrant additional flexibility, you must contact your dean of
-students and have them contact me. They will help you coordinate
-extensions and accommodations across all your classes, which will
-ensure you get the support you need across the board, not just in this
-class.
-
-
-### Caveats
-
-Even this amount of flexibility and self-control over your grades has
-some limitations in penalties from small mistakes. It is your
-responsibility to make sure the work you submit is as close a
-reflection of your actual learning as possible, so I can get the best
-picture I can of where you're at as a student. And in turn, so you can
-get as much recognition as possible for your learning. Concretely,
-this means:
-
-- For programming assignments, being thorough in your testing to avoid
-  silly mistakes, and taking full advantage of our feedback when
-  working on resubmissions.
-
-- For "one-shot" assessments like exams or self-evaluations, be very
-  careful to read instructions completely and thoroughly, and ask for
-  clarifications if need be. I can't assess your learning if you
-  answer the wrong question.
-
+Barring extreme circumstances, no additional ad-hoc extensions will be
+granted. If you require further flexibility, contact your dean of
+students and have them contact me.
 
 ## Academic Integrity
 
 It's OK to meet with colleagues, form study groups, discuss
-assignments with them, compare alternative approaches, go over
-examples from textbooks or other sources. But it is never OK to share
-code or homework solutions, or even to see each other's code or
-solutions. What you turn in must be your own work. Copying (or even
-studying) code, solution sets, test cases, materials from other
-previous terms, etc., from anywhere (e.g., other people, web, GitHub)
-is strictly prohibited. In this context, cheating refers to copying or
-submitting as your own, with or without consent, someone else’s work
-as your own. Misrepresentation of someone else’s work as one’s own is
-a grave violation of academic ethics. This includes copying from
-someone else answers to questions during an examination as well as
-copying programs from internet sources. Plagiarism refers to using
-someone else’s work in your own and not properly crediting the authors
-of that work. This includes adapting someone else’s code to solve a
-problem or write a program. The only exception to this rule applies to
-course resources from the current semester such as starter code, code
-from lectures, resource videos, or test cases you received in grading
-feedback; you may use those as you see fit. Tools which automatically
-generate code for you (e.g., GitHub copilot) are also strictly
-prohibited. If you discuss your work with other people, please
-acknowledge them by listing their names in your submission.
+assignments, compare high-level approaches, and go over examples from
+texts. It is never OK to share code or solutions or to see someone
+else's code or solutions. What you turn in must be your own work.
+Copying code, solution sets, test cases, or materials from prior terms
+or the web is strictly prohibited. Tools that automatically generate
+code or solutions are prohibited unless I explicitly authorize them.
+Acknowledge any help you received by listing names and sources in your
+submission.
 
-There will be no tolerance for cheating and plagiarism in
-this course. Any material that is not entirely your own work needs to
-be properly indicated and cited. This includes any work produced
-together with fellow students. You MUST indicate any sources of help
-outside of the course text(s) and your own work, including the names
-of students with whom you worked, internet resources or other sources
-of help. Failure to do so constitutes a violation of academic
-integrity. When in doubt, ask your instructor. Violations of academic
-integrity will lead to a score of zero on the offending assignment and
-likely an immediately failing grade for the course.
+There will be no tolerance for cheating and plagiarism. Any material
+that is not entirely your own work must be indicated and cited. You
+must not share, post, or publicize course materials (homeworks, exams,
+solutions, test cases, or your submissions), including after the term.
 
-It is also forbidden to share, post, or otherwise publicize course
-materials. This includes (but is not limited to) homeworks, exams,
-solutions, test cases, or your own submissions (in whole or in part).
-This extends even after the semester ends; course material remains
-private information which you may not share or reproduce.
+I may require you to explain any non-exam work in person as a
+condition of receiving credit.
 
 ## Academic Accommodations
 
@@ -441,28 +248,15 @@ their [webpage](https://www.shu.edu/disability-support-services/index.cfm).
 
 ## Equity and Compliance
 
-One of our responsibilities in supporting student learning 360° is to
-help create a safe learning environment both in person and virtually.
-You should carefully consult the university's [relevant information
-and policies](https://www.shu.edu/title-ix/index.cfm), and if you have
-or experience any violations of the above I encourage you to take full
-advantage of the university resources.
-
-It is also important that you know that federal regulations and
-University policy require me to promptly convey any information about
-certain kinds of misconduct known to me to our Title IX Coordinator.
-In that event, they will work with a small number of others on campus
-to ensure that appropriate measures are taken and resources are made
-available to the student who may have been harmed. Protecting a
-student’s privacy is of utmost concern, and all involved will only
-share information with those that need to know to ensure the
-University can respond and assist.
+Consult the university's [relevant information and policies](https://www.shu.edu/title-ix/index.cfm). Federal
+regulations and University policy require me to promptly convey certain
+reports to the Title IX Coordinator.
 
 ## Technology and Platforms
 
 We will use a variety of tools and platforms to facilitate teaching
-and learning over the semester. Please see the [technology page]({{
-site.baseurl }}/tech/) for more details.
+and learning. See the technology page at {{ site.baseurl }}/tech/ for
+details.
 
 ## Acknowledgments
 
