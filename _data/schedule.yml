@@ -16,9 +16,24 @@ weeks:
         videos: []
         extra_resources: []
   - week_offset: 1
+    homework: []
+    sessions:
+      - day: M
+        title: "MLK Day, no class"
+        topics: []
+        pre_readings: []
+        videos: []
+        extra_resources: []
+      - day: W
+        title: "Guest Speaker: Transit Graph ADT"
+        topics: []
+        pre_readings: []
+        videos: []
+        extra_resources: []
+  - week_offset: 2
     homework:
       - title: "HW1"
-        out: W
+        out: M
     sessions:
       - day: M
         title: "DSSL2 Q&A, Linked lists, Arrays"
@@ -35,10 +50,10 @@ weeks:
         pre_readings: []
         videos: []
         extra_resources: []
-  - week_offset: 2
+  - week_offset: 3
     homework:
       - title: "WS1"
-        out: W
+        out: M
     sessions:
       - day: M
         title: "ADTs, Stack and Queue"
@@ -52,12 +67,11 @@ weeks:
         topics:
           - desc: "Asymptotic Analysis and Complexity"
         pre_readings:
+          - title: "Bhargava Ch. 1"
           - title: "Cormen Ch. 2, Ch. 3-3.2†‡"
         videos: []
         extra_resources:
-          - title: "Bhargava Ch. 1"
-            link: ""
-  - week_offset: 3
+  - week_offset: 4
     homework: []
     sessions:
       - day: M
@@ -75,10 +89,10 @@ weeks:
           - title: "Cormen Ch. 2, Ch. 3-3.2"
         videos: []
         extra_resources: []
-  - week_offset: 4
+  - week_offset: 5
     homework:
       - title: "HW2"
-        out: W
+        out: M
     sessions:
       - day: M
         title: "Simple Sorting Routines"
@@ -92,14 +106,13 @@ weeks:
         topics:
           - desc: "Quicksort"
         pre_readings:
+          - title: "Bhargava Ch. 4"
           - title: "Cormen Ch. 7"
         videos: []
         extra_resources:
-          - title: "Bhargava Ch. 4"
-            link: ""
           - title: "Dancing Quicksort"
             link: "https://www.youtube.com/watch?v=ywWBy6J5gz8"
-  - week_offset: 5
+  - week_offset: 6
     homework: []
     sessions:
       - day: M
@@ -119,10 +132,20 @@ weeks:
         pre_readings: []
         videos: []
         extra_resources: []
-  - week_offset: 6
+  - week_offset: 7
+    homework: []
+    sessions:
+      - day: M
+        title: "No class (Spring Break)"
+        pre_readings: []
+        videos: []
+        extra_resources: []
+      - day: W
+        title: "No class (Spring Break)"
+  - week_offset: 8
     homework:
       - title: "WS2"
-        out: W
+        out: M
     sessions:
       - day: M
         title: "Hash tables 2/2"
@@ -144,20 +167,10 @@ weeks:
         extra_resources:
           - title: "Bhargava Ch. 6-pg99"
             link: ""
-  - week_offset: 7
-    homework: []
-    sessions:
-      - day: M
-        title: "Spring Break"
-        pre_readings: []
-        videos: []
-        extra_resources: []
-      - day: W
-        title: "Spring Break"
-  - week_offset: 8
+  - week_offset: 9
     homework:
       - title: "HW3"
-        out: W
+        out: M
     sessions:
       - day: M
         title: "Midterm Review"
@@ -175,7 +188,7 @@ weeks:
         videos: []
         extra_resources:
           - title: "Bhargava Ch. 6,pg99-114 Ch. 7"
-  - week_offset: 9
+  - week_offset: 10
     homework: []
     sessions:
       - day: M
@@ -194,7 +207,7 @@ weeks:
         videos: []
         extra_resources:
           - title: "Bhargava Ch. 6,pg99-114"
-  - week_offset: 10
+  - week_offset: 11
     homework: []
     sessions:
       - day: M
@@ -212,13 +225,12 @@ weeks:
           - title: "Ch. 6"
         videos: []
         extra_resources: []
-  - week_offset: 11
+  - week_offset: 12
     homework: []
     sessions:
       - day: M
-        title: "NO CLASS"
-        topics:
-          - desc: "NO CLASS"
+        title: "No class (Easter)"
+        topics: []
         pre_readings: []
         videos: []
         extra_resources: []
@@ -230,7 +242,7 @@ weeks:
           - title: "Ch. 23"
         videos: []
         extra_resources: []
-  - week_offset: 12
+  - week_offset: 13
     homework: []
     sessions:
       - day: M
@@ -248,7 +260,7 @@ weeks:
           - title: "Ch. 23"
         videos: []
         extra_resources: []
-  - week_offset: 13
+  - week_offset: 14
     homework: []
     sessions:
       - day: M
@@ -267,7 +279,7 @@ weeks:
           - title: "Ch. 17"
         videos: []
         extra_resources: []
-  - week_offset: 14
+  - week_offset: 15
     homework:
       - title: "HW4"
         out: M
@@ -290,7 +302,7 @@ weeks:
         extra_resources:
           - title: "Persistent_Union-Find"
             link: "https://dl.acm.org/doi/10.1145/1292535.1292541"
-  - week_offset: 15
+  - week_offset: 16
     homework: []
     sessions:
       - day: M
@@ -304,16 +316,6 @@ weeks:
         title: "Exam Review"
         topics:
           - desc: "Exam Review"
-        pre_readings: []
-        videos: []
-        extra_resources: []
-  - week_offset: 16
-    homework: []
-    sessions:
-      - day: M
-        title: "EXAM 2"
-        topics:
-          - desc: "EXAM 2"
         pre_readings: []
         videos: []
         extra_resources: []
