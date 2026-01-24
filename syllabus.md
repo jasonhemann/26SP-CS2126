@@ -53,10 +53,7 @@ In addition to lecture, I provide the following additional resources.
 
 ### Scheduled Office Hours
 
-Course personnel will make ourselves available for 4-6 hours of
-[office hours]({{ site.baseurl}}/office-hours/) weekly, concentrated
-near assignment due dates. If our office hours schedule is ill-suited
-to your class schedule, let me know and I may be able to adjust it.
+My [office hours]({{ site.baseurl}}/office-hours/) are scheduled weekly, and I can also be available by appointment.
 
 ### Textbooks
 
