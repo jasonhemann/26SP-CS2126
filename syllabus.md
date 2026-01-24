@@ -71,15 +71,9 @@ text is an easier on-ramp.
 I will link to supplementary videos about various {{ site.title }} topics.
 Watch them early; they can help when you study and prepare for quizzes.
 
-
 ## Assessment
 
 ### Categories and weights
-
-This is likely quite different from what you have seen in your other
-classes, and will take some getting used to on your part. This system,
-however, has a number of benefits for students---see [Why
-Spec](why-specs**.
 
 - Mid-term Exam (pen and paper, in class): 20%
 - Final Exam, cumulative (pen and paper): 25%
