@@ -51,10 +51,7 @@ repository and to access information. Keeping track of your work in a
 VCS is also a good idea. I will ask that you keep these repositories
 private, for the benefit of current and future classmates.
 
-## Blackboard
 
-In that same spirit, I will use blackboard to distribute some
-materials, and may use it to accept assignments. 
+## Gradescope and Canvas 
 
-Please do not use Blackboard messages/comments to communicate with me;
-I will not check them and anyway they are very easy to miss.
+At this [GitHub URL](https://github.com/UseBetterCanvas/canvas-task-extension) you will find a link to a browser extension to add your Gradescope assignments and their due dates to your Canvas site. If you are a Canvas user, you might find this helpful to track all of your assignments in one place.
