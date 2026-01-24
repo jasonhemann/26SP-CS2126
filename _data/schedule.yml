@@ -42,7 +42,7 @@ weeks:
         pre_readings: []
         videos: []
         extra_resources:
-          - title: "Bhargava Ch. 2-pg32"
+          - title: "Bhargava Ch.2-pg32"
       - day: W
         title: "ADTs, Stack and Queue"
         topics:
@@ -69,8 +69,8 @@ weeks:
         topics:
           - desc: "Asymptotic Analysis and Complexity"
         pre_readings:
-          - title: "Bhargava Ch. 1"
-          - title: "Cormen Ch. 2, Ch. 3-3.2†‡"
+          - title: "Bhargava Ch.1"
+          - title: "Cormen Ch.2"
         videos: []
         extra_resources:
   - week_offset: 4
@@ -88,7 +88,8 @@ weeks:
         topics:
           - desc: "Asymptotic Analysis and Complexity, Sorting"
         pre_readings:
-          - title: "Cormen Ch. 2, Ch. 3-3.2"
+          - title: "Cormen Ch.2"
+          - title: "Cormen Ch.3-3.2"
         videos: []
         extra_resources: []
   - week_offset: 5
@@ -106,8 +107,8 @@ weeks:
         topics:
           - desc: "Quicksort"
         pre_readings:
-          - title: "Bhargava Ch. 4"
-          - title: "Cormen Ch. 7"
+          - title: "Bhargava Ch.4"
+          - title: "Cormen Ch.7"
         videos: []
         extra_resources:
           - title: "Dancing Quicksort"
@@ -120,7 +121,7 @@ weeks:
         topics:
           - desc: "Sort Remainders: Merge, Stable, Compr"
         pre_readings:
-          - title: "Cormen Ch. 2, redux"
+          - title: "Cormen Ch.2 (refresher)"
         videos: []
         extra_resources:
           - title: "Dancing MergeSort"
@@ -129,7 +130,8 @@ weeks:
         title: "Dictionary ADTs, 1/2 Hash Tables"
         topics:
           - desc: "Dictionary ADTs, 1/2 Hash Tables"
-        pre_readings: []
+        pre_readings:
+          - title: "Cormen Ch.11-11.3"
         videos: []
         extra_resources: []
   - week_offset: 7
@@ -151,43 +153,36 @@ weeks:
     sessions:
       - day: M
         title: "Hash tables 2/2"
-        topics:
-          - desc: "Hash tables 2/2"
         pre_readings:
-          - title: "Cormen Ch. 11"
-        videos: []
+          - title: "Cormen Ch.11.4"
         extra_resources:
-          - title: "Bhargava Ch. 5"
-            link: ""
+          - title: "Cormen Ch.11.5"
+          - title: "Bhargava Ch.5"
       - day: W
         title: "Graphs"
-        topics:
-          - desc: "Graphs"
         pre_readings:
-          - title: "Appx. B.4, Ch 20-20.1"
-        videos: []
-        extra_resources:
-          - title: "Bhargava Ch. 6-pg99"
-            link: ""
+          - title: "Cormen Appendix B.4"
+          - title: "Cormen Ch.20.1"
+        extra_resources: []
+          - title: "Cormen Ch.11"
+          - title: "Bhargava Ch.6-pg99"
   - week_offset: 9
     homework: []
     sessions:
       - day: M
         title: "Midterm Review"
-        topics:
-          - desc: "Midterm Review"
         pre_readings: []
-        videos: []
         extra_resources: []
       - day: W
         title: "Graph Search"
-        topics:
-          - desc: "Graph Search"
         pre_readings:
-          - title: "Cormen Ch 20.2-20.4"
-        videos: []
+          - title: "Cormen Ch.20.2 Breadth-first search"
+          - title: "Cormen Ch.20.3 Depth-first search"
+          - title: "Cormen Ch.20.4 Topological sort"
         extra_resources:
-          - title: "Bhargava Ch. 6,pg99-114 Ch. 7"
+          - title: "Bhargava Ch.6, pg99-114"
+          - title: "Bhargava Ch.7"
+          - title: "Cormen Ch.20.5 Strongly connected components"
   - week_offset: 10
     homework:
       - title: "HW4"
@@ -195,38 +190,31 @@ weeks:
     sessions:
       - day: M
         title: "Midterm Exam"
-        topics:
-          - desc: "Midterm Exam"
         pre_readings: []
-        videos: []
         extra_resources: []
       - day: W
         title: "Graph Search Pt. 2"
-        topics:
-          - desc: "Graph Search Pt. 2"
         pre_readings:
-          - title: "Cormen Ch 20.2-20.4"
-        videos: []
+          - title: "Cormen Ch.20.2 Breadth-first search"
+          - title: "Cormen Ch.20.3 Depth-first search"
+          - title: "Cormen Ch.20.4 Topological sort"
         extra_resources:
-          - title: "Bhargava Ch. 6,pg99-114"
+          - title: "Bhargava Ch.6, pg99-114"
+          - title: "Bhargava Ch.7"
+          - title: "Cormen Ch.20.5 Strongly connected components"
+
   - week_offset: 11
     homework: []
     sessions:
       - day: M
         title: "Post Mortem"
-        topics:
-          - desc: "Post Mortem"
         pre_readings: []
-        videos: []
         extra_resources: []
       - day: W
         title: "Heapsort"
-        topics:
-          - desc: "Heapsort"
         pre_readings:
-          - title: "Ch. 6"
-        videos: []
-        extra_resources: []
+          - title: "Cormen Ch.6"
+
   - week_offset: 12
     homework:
       - title: "HW5"
@@ -239,13 +227,11 @@ weeks:
         videos: []
         extra_resources: []
       - day: W
-        title: "Data Design I"
-        topics:
-          - desc: "Data Design I"
-        pre_readings:
-          - title: "Ch. 23"
-        videos: []
-        extra_resources: []
+        title: "Designing with Data Structures"
+        pre_readings: []
+        extra_resources:
+          - title: "Cormen Ch.17.2"
+
   - week_offset: 13
     homework: []
     sessions:
@@ -270,46 +256,34 @@ weeks:
     sessions:
       - day: M
         title: "Minimum Spanning Trees"
-        topics:
-          - desc: "Minimum Spanning Trees"
         pre_readings:
-          - title: "Ch. 23"
+          - title: "Cormen Ch.21"
         videos: []
         extra_resources: []
       - day: W
         title: "Binary Search Trees"
-        topics:
-          - desc: "Binary Search Trees"
         pre_readings:
-          - title: "Ch. 12"
-        videos: []
-        extra_resources: []
+          - title: "Cormen Ch.12"
 
   - week_offset: 15
     homework: []
     sessions:
       - day: M
         title: "Amortized Analysis"
-        topics:
-          - desc: "Amortized Analysis"
         pre_readings:
-          - title: "Ch. 17"
-        videos: []
+          - title: "Cormen Ch.16.1–16.3"
         extra_resources: []
       - day: W
         title: "Probabalistic Data Structures"
-        topics:
-          - desc: "Probabalistic data structures"
         pre_readings: []
         videos: []
-        extra_resources: []
+        extra_resources:
+          - title: "Cormen Ch.11.3 (optional refresher)"
   - week_offset: 16
     homework: []
     sessions:
       - day: M
         title: "Persistent, Extended Example Conchon-Filiatre"
-        topics:
-          - desc: "Persistent, Extended Example Conchon-Filiatre"
         pre_readings: []
         videos: []
         extra_resources:
