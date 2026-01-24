@@ -190,13 +190,15 @@ class's content. Slides are not posted before class.
 Unless otherwise indicated, assignments are due by 09:59 p.m. on their
 due date. Dropboxes close automatically, and late is late.
 
-Each student starts with three late tokens. Each token can be exchanged
-for a two-day no questions asked extension on a non-exam assignment,
-including a homework redo. Only one token can be used per submission.
-Late tokens are applied automatically when you submit late. The two-day
-window begins at the time of your late submission. If you run out of
-tokens, I will reach out. Quizzes and exams are in-class and are not
-eligible for late tokens.
+Each student starts with three late tokens. Each token can be
+exchanged for a one-day no questions asked extension on a non-exam
+assignment, including a homework redo. Only one token can be used per
+submission, and only for one day afterward. Late tokens are applied
+automatically when you submit late, but you must inform me to open the
+late submission window for you. The one-day window begins at the time
+of the original submission. If you run out of tokens, I will reach
+out. Quizzes and exams are in-class and are not eligible for late
+tokens.
 
 Barring extreme circumstances, no additional ad-hoc extensions will be
 granted. If you require further flexibility, contact your dean of
