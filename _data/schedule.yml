@@ -163,7 +163,7 @@ weeks:
         pre_readings:
           - title: "Cormen Appendix B.4"
           - title: "Cormen Ch.20.1"
-        extra_resources: []
+        extra_resources:
           - title: "Cormen Ch.11"
           - title: "Bhargava Ch.6-pg99"
   - week_offset: 9
@@ -204,21 +204,22 @@ weeks:
           - title: "Cormen Ch.20.5 Strongly connected components"
 
   - week_offset: 11
-    homework: []
-    sessions:
-      - day: M
-        title: "Post Mortem"
-        pre_readings: []
-        extra_resources: []
-      - day: W
-        title: "Heapsort"
-        pre_readings:
-          - title: "Cormen Ch.6"
-
-  - week_offset: 12
     homework:
       - title: "HW5"
         out: M
+    sessions:
+      - day: M
+        title: "Heapsort"
+        pre_readings:
+          - title: "Cormen Ch.6"
+      - day: W
+        title: "Designing with Data Structures"
+        pre_readings: []
+        extra_resources:
+          - title: "Cormen Ch.17.2"
+
+  - week_offset: 12
+    homework: []
     sessions:
       - day: M
         title: "No class (Easter)"
@@ -227,69 +228,66 @@ weeks:
         videos: []
         extra_resources: []
       - day: W
-        title: "Designing with Data Structures"
-        pre_readings: []
-        extra_resources:
-          - title: "Cormen Ch.17.2"
-
-  - week_offset: 13
-    homework: []
-    sessions:
-      - day: M
         title: "Unification Pt 1"
         topics:
           - desc: "Robinson's Unification Algorithm"
         pre_readings: []
         videos: []
         extra_resources: []
-      - day: W
+
+  - week_offset: 13
+    homework:
+      - title: "HW6"
+        out: M
+    sessions:
+      - day: M
         title: "Unification Pt 2"
         topics:
           - desc: "Union-find based unification algorithm"
         pre_readings: []
         videos: []
         extra_resources: []
-  - week_offset: 14
-    homework:
-      - title: "HW6"
-        out: M
-    sessions:
-      - day: M
+      - day: W
         title: "Minimum Spanning Trees"
         pre_readings:
           - title: "Cormen Ch.21"
         videos: []
         extra_resources: []
-      - day: W
+
+  - week_offset: 14
+    homework: []
+    sessions:
+      - day: M
         title: "Binary Search Trees"
         pre_readings:
           - title: "Cormen Ch.12"
+      - day: W
+        title: "Amortized Analysis"
+        pre_readings:
+          - title: "Cormen Ch.16.1-16.3"
+        extra_resources: []
 
   - week_offset: 15
     homework: []
     sessions:
       - day: M
-        title: "Amortized Analysis"
-        pre_readings:
-          - title: "Cormen Ch.16.1–16.3"
-        extra_resources: []
-      - day: W
-        title: "Probabalistic Data Structures"
+        title: "Probabilistic Data Structures"
         pre_readings: []
         videos: []
         extra_resources:
           - title: "Cormen Ch.11.3 (optional refresher)"
-  - week_offset: 16
-    homework: []
-    sessions:
-      - day: M
+      - day: W
         title: "Persistent, Extended Example Conchon-Filiatre"
         pre_readings: []
         videos: []
         extra_resources:
           - title: "Persistent_Union-Find"
             link: "https://dl.acm.org/doi/10.1145/1292535.1292541"
-      - day: W
+
+  - week_offset: 16
+    homework: []
+    sessions:
+      - day: M
         title: "Exam Review"
         topics:
           - desc: "Exam Review"
