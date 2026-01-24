@@ -106,8 +106,8 @@ Letter grades are computed from the weighted average using Seton Hall's recommen
 
 One in-class midterm and one cumulative final, both closed-book and
 closed-notes. No electronics. Show work for partial credit. Dates for
-Exam 1 will be announced in class; the Final Exam follows the
-Registrar schedule.
+Mid-term exam will be announced in class and listed on the schedule; the
+Final Exam follows the Registrar schedule.
 
 ### In-class reading quizzes
 
@@ -143,7 +143,7 @@ Each homework is worth the same share of the “Programming homeworks” categor
 
 Making mistakes and correcting them is a natural part of the learning process. An outcome of On the way or Not yet is not a failure; it means you still have things to learn.
 
-You may resubmit that homework assigment one week after the initial deadline. To determine your recorded homework score, I use the best of the two outcomes (initial or redo) converted by the outcome map above. If your initial outcome was Cannot assess, you must repair it before the redo; otherwise the recorded score remains 0.
+You may resubmit that homework assigment one week after the initial deadline. To determine your recorded homework score, I use the best of the two outcomes (initial or redo) converted by the outcome map above. If your initial outcome was Cannot assess, you must repair it for the redo; otherwise the recorded score remains 0.
 
 ### Autograder and materials protection
 
