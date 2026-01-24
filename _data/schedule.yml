@@ -54,6 +54,8 @@ weeks:
     homework:
       - title: "WS1"
         out: M
+      - title: "HW2"
+        out: M
     sessions:
       - day: M
         title: "ADTs, Stack and Queue"
@@ -90,9 +92,7 @@ weeks:
         videos: []
         extra_resources: []
   - week_offset: 5
-    homework:
-      - title: "HW2"
-        out: M
+    homework: []
     sessions:
       - day: M
         title: "Simple Sorting Routines"
@@ -124,7 +124,7 @@ weeks:
         videos: []
         extra_resources:
           - title: "Dancing MergeSort"
-          - link: "https://www.youtube.com/watch?v=XaqR3G_NVoo"
+            link: "https://www.youtube.com/watch?v=XaqR3G_NVoo"
       - day: W
         title: "Dictionary ADTs, 1/2 Hash Tables"
         topics:
@@ -145,6 +145,8 @@ weeks:
   - week_offset: 8
     homework:
       - title: "WS2"
+        out: M
+      - title: "HW3"
         out: M
     sessions:
       - day: M
@@ -168,9 +170,7 @@ weeks:
           - title: "Bhargava Ch. 6-pg99"
             link: ""
   - week_offset: 9
-    homework:
-      - title: "HW3"
-        out: M
+    homework: []
     sessions:
       - day: M
         title: "Midterm Review"
@@ -189,7 +189,9 @@ weeks:
         extra_resources:
           - title: "Bhargava Ch. 6,pg99-114 Ch. 7"
   - week_offset: 10
-    homework: []
+    homework:
+      - title: "HW4"
+        out: M
     sessions:
       - day: M
         title: "Midterm Exam"
@@ -226,7 +228,9 @@ weeks:
         videos: []
         extra_resources: []
   - week_offset: 12
-    homework: []
+    homework:
+      - title: "HW5"
+        out: M
     sessions:
       - day: M
         title: "No class (Easter)"
@@ -246,13 +250,25 @@ weeks:
     homework: []
     sessions:
       - day: M
-        title: "Eclipse!"
+        title: "Unification Pt 1"
         topics:
-          - desc: "Eclipse!"
+          - desc: "Robinson's Unification Algorithm"
         pre_readings: []
         videos: []
         extra_resources: []
       - day: W
+        title: "Unification Pt 2"
+        topics:
+          - desc: "Union-find based unification algorithm"
+        pre_readings: []
+        videos: []
+        extra_resources: []
+  - week_offset: 14
+    homework:
+      - title: "HW6"
+        out: M
+    sessions:
+      - day: M
         title: "Minimum Spanning Trees"
         topics:
           - desc: "Minimum Spanning Trees"
@@ -260,10 +276,7 @@ weeks:
           - title: "Ch. 23"
         videos: []
         extra_resources: []
-  - week_offset: 14
-    homework: []
-    sessions:
-      - day: M
+      - day: W
         title: "Binary Search Trees"
         topics:
           - desc: "Binary Search Trees"
@@ -271,7 +284,11 @@ weeks:
           - title: "Ch. 12"
         videos: []
         extra_resources: []
-      - day: W
+
+  - week_offset: 15
+    homework: []
+    sessions:
+      - day: M
         title: "Amortized Analysis"
         topics:
           - desc: "Amortized Analysis"
@@ -279,21 +296,17 @@ weeks:
           - title: "Ch. 17"
         videos: []
         extra_resources: []
-  - week_offset: 15
-    homework:
-      - title: "HW4"
-        out: M
-      - title: "Project"
-        out: M
-    sessions:
-      - day: M
+      - day: W
         title: "Probabalistic Data Structures"
         topics:
           - desc: "Probabalistic data structures"
         pre_readings: []
         videos: []
         extra_resources: []
-      - day: W
+  - week_offset: 16
+    homework: []
+    sessions:
+      - day: M
         title: "Persistent, Extended Example Conchon-Filiatre"
         topics:
           - desc: "Persistent, Extended Example Conchon-Filiatre"
@@ -302,16 +315,6 @@ weeks:
         extra_resources:
           - title: "Persistent_Union-Find"
             link: "https://dl.acm.org/doi/10.1145/1292535.1292541"
-  - week_offset: 16
-    homework: []
-    sessions:
-      - day: M
-        title: "Free Day, Project"
-        topics:
-          - desc: "None, work on your projects"
-        pre_readings: []
-        videos: []
-        extra_resources: []
       - day: W
         title: "Exam Review"
         topics:
