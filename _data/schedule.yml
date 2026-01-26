@@ -36,25 +36,19 @@ weeks:
         out: M
     sessions:
       - day: M
-        title: "DSSL2 Q&A, Linked lists, Arrays"
-        topics:
-          - desc: "DSSL2 Q&A, Linked lists, Arrays"
+        title: "Class cancelled Snow "
         pre_readings: []
         videos: []
         extra_resources:
           - title: "Bhargava Ch.2-pg32"
       - day: W
-        title: "ADTs, Stack and Queue"
-        topics:
-          - desc: "ADTs, Stack and Queue"
+        title: "DSSL2 Q&A, Linked lists, Arrays"
         pre_readings: []
         videos: []
         extra_resources: []
   - week_offset: 3
     homework:
       - title: "WS1"
-        out: M
-      - title: "HW2"
         out: M
     sessions:
       - day: M
@@ -74,7 +68,9 @@ weeks:
         videos: []
         extra_resources:
   - week_offset: 4
-    homework: []
+    homework:
+      - title: "HW2"
+        out: M
     sessions:
       - day: M
         title: "DSSL2 Classes, Queues, Contracts"
@@ -207,6 +203,9 @@ weeks:
     homework:
       - title: "HW5"
         out: M
+      - title: "Algorithm Viva (Round 1)"
+        out: M
+        starter_code: "algorithms-viva-1"
     sessions:
       - day: M
         title: "Heapsort"
