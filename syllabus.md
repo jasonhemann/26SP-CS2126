@@ -79,7 +79,7 @@ Watch them early; they can help when you study and prepare for quizzes.
 - Final Exam, cumulative (pen and paper): 25%
 - Algorithm Explanation Check (in person, individual): 15%
 - In-class reading quizzes (best 15; about 18–22 offered): 25%
-- Programming homeworks (6 autograded assignments, individual): 15%
+- Programming homeworks (6 autograded assignments, pair programming): 15%
 
 Total: 100%.
 
