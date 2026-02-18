@@ -109,6 +109,8 @@ weeks:
         extra_resources:
           - title: "Dancing Quicksort"
             link: "https://www.youtube.com/watch?v=ywWBy6J5gz8"
+          - title: "Sounds of Sorting (6 minutes)"
+            link: "https://www.youtube.com/watch?v=kPRA0W1kECg"
   - week_offset: 6
     homework: []
     sessions:
@@ -122,6 +124,12 @@ weeks:
         extra_resources:
           - title: "Dancing MergeSort"
             link: "https://www.youtube.com/watch?v=XaqR3G_NVoo"
+          - title: "The Ω(n log n) barrier, simply (SO)"
+            link: "https://stackoverflow.com/questions/7155285/what-are-the-rules-for-the-%ce%a9n-log-n-barrier-for-sorting-algorithms/7155425#7155425"
+          - title: "Powersort---the new Timsort champion"
+            link: "https://en.wikipedia.org/wiki/Powersort"
+          - title: "Nearly all binary searches and mergesorts are broken"
+            link: "https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/"
       - day: W
         title: "Dictionary ADTs, 1/2 Hash Tables"
         topics:
