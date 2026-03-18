@@ -215,7 +215,7 @@ weeks:
         out: M
       - title: "Algorithm Viva (Round 1)"
         out: M
-        starter_code: "algorithms-viva-1"
+        starter_code: "algorithms-viva"
     sessions:
       - day: M
         title: "Heapsort"
