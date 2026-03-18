@@ -187,6 +187,8 @@ weeks:
           - title: "Bhargava Ch.6, pg99-114"
           - title: "Bhargava Ch.7"
           - title: "Cormen Ch.20.5 Strongly connected components"
+          - title: "Center of the Hollywood Universe"
+            link: "https://oracleofbacon.org/center.php"
   - week_offset: 10
     homework:
       - title: "HW4"
