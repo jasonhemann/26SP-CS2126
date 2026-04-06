@@ -36,11 +36,38 @@ attempt.
 
 See the [viva page](../../viva.md) for a general_description of the format.
 
-In this case, I will choose the exact topic at the door from the published pool below.
+In this case, I will choose three topics at the door from the
+published pool below; you can choose which of those you want to be
+tested on. The topics are as follows:
 
 ### Topic Pool (Spring 2026 window)
 
-1. **Breadth-First Search (BFS) and shortest paths in unweighted graphs**
+- Breadth-first search
+- Depth-first search
+- Full-graph depth-first search / DFS forests
+- DFS path-finding
+- DFS cycle detection
+- Iterative depth-first search
+- Topological sort
+- Strongly connected components
+- Bellman-Ford
+- Bellman-Ford with negative-cycle detection
+- Dijkstra's algorithm
+- Priority queues with unsorted lists
+- Priority queues with sorted lists
+- Binary heaps / heap-based priority queues
+- Heapsort
+- Kruskal's algorithm
+- Kruskal's algorithm with union-find
+- Prim's algorithm
+- Weighted union-find
+- Weighted union-find with path compression
+- Binary search trees
+- AVL trees
+
+### Source material, by section (in addition to slides/notes)
+
+1. **Breadth-First Search (BFS) and shortest paths in (un)weighted graphs**
    Required ideas: predecessor tree, layer structure, O(V+E) bound, why tree paths are shortest.
    Cormen: 20.2.
 

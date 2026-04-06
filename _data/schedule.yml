@@ -211,7 +211,7 @@ weeks:
     homework:
       - title: "HW4"
         out: M
-      - title: "Algorithm Viva (Round 1)"
+      - title: "Algorithm Viva"
         out: M
         starter_code: "algorithms-viva"
     sessions:
