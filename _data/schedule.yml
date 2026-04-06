@@ -190,9 +190,7 @@ weeks:
           - title: "Center of the Hollywood Universe"
             link: "https://oracleofbacon.org/center.php"
   - week_offset: 10
-    homework:
-      - title: "HW4"
-        out: M
+    homework: []
     sessions:
       - day: M
         title: "Midterm Exam"
@@ -211,7 +209,7 @@ weeks:
 
   - week_offset: 11
     homework:
-      - title: "HW5"
+      - title: "HW4"
         out: M
       - title: "Algorithm Viva (Round 1)"
         out: M
@@ -228,7 +226,9 @@ weeks:
           - title: "Cormen Ch.17.2"
 
   - week_offset: 12
-    homework: []
+    homework:
+      - title: "HW5"
+        out: M
     sessions:
       - day: M
         title: "No class (Easter)"
@@ -245,9 +245,7 @@ weeks:
         extra_resources: []
 
   - week_offset: 13
-    homework:
-      - title: "HW6"
-        out: M
+    homework: []
     sessions:
       - day: M
         title: "Unification Pt 2"
@@ -264,7 +262,9 @@ weeks:
         extra_resources: []
 
   - week_offset: 14
-    homework: []
+    homework:
+      - title: "HW6"
+        out: M
     sessions:
       - day: M
         title: "Binary Search Trees"

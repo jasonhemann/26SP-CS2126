@@ -22,12 +22,13 @@ steps.
 # Booking and Logistics
 
 Sign-up link and slots will appear at [this
-url](https://calendar.app.google/Une5wVth6iP6dcMd6) before the window
-opens. If no posted time works, email alternatives at least 96 hours
-before the window closes. Arrive 2 minutes early. Late arrivals may be
-asked to reschedule within the same window if capacity allows.
-Un-communicated no-shows count as an attempt and receive a score of
-zero for that attempt.
+url](https://calendar.app.google/f8mh4KXybNorL5TbA) before the window
+opens. Book a slot between **2026-04-28** and **2026-05-01**. If no
+posted time works, email alternatives at least 96 hours before the
+window closes. Arrive 2 minutes early. Late arrivals may be asked to
+reschedule within the same window if capacity allows. Un-communicated
+no-shows count as an attempt and receive a score of zero for that
+attempt.
 
 ---
 
