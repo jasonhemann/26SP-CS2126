@@ -250,7 +250,7 @@ weeks:
       - day: M
         title: "Unification Pt 2"
         topics:
-          - desc: "Union-find based unification algorithm"
+          - desc: "Union-find based unification algorithm (SP26---nope, just type inf in mK, b/c union-find amortization is later in semester)"
         pre_readings: []
         videos: []
         extra_resources: []
