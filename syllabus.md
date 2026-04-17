@@ -69,19 +69,26 @@ text is an easier on-ramp.
 ### Supplementary Videos
 
 I will link to supplementary videos about various {{ site.title }} topics.
-Watch them early; they can help when you study and prepare for quizzes.
+Watch them early; they can help when you study and prepare for exams and quizzes.
 
 ## Assessment
 
+The category weights below reflect a revised Spring 2026 breakdown that
+adds a substantial midterm redo.
+
 ### Categories and weights
 
-- Mid-term Exam (pen and paper, in class): 20%
+- Mid-term Exam (pen and paper, in class): 15%
+- Mid-term Redo (pen and paper, in class): 20%
 - Final Exam, cumulative (pen and paper): 25%
-- Algorithm Explanation Check (in person, individual): 15%
-- In-class reading quizzes (best 15; about 18–22 offered): 25%
+- Algorithm Explanation Check / Viva Voce (in person, individual): 15%
+- Quizzes: 10%
 - Programming homeworks (6 autograded assignments, pair programming): 15%
 
 Total: 100%.
+
+A class-wide 1-point bonus will be added to the overall course grade if
+more than 85% of the class submits course evaluations.
 
 Letter grades are computed from the weighted average using Seton Hall's recommended fixed grade cutoffs:
 
@@ -104,18 +111,13 @@ Letter grades are computed from the weighted average using Seton Hall's recommen
 
 ### Exams
 
-One in-class midterm and one cumulative final, both closed-book and
-closed-notes. No electronics. Show work for partial credit. Dates for
-Mid-term exam will be announced in class and listed on the schedule; the
-Final Exam follows the Registrar schedule.
-
-### In-class reading quizzes
-
-At the start of many class meetings we will have a 10-12 minute
-paper quiz on assigned readings and on recent material. Slides are not
-distributed before class; the reading primes the topic that follows in
-the lecture deck. Quizzes are closed-notes. We drop all but your best
-15 quiz scores to cover routine conflicts. No make-ups.
+This course uses two in-class paper exams before the cumulative final:
+the original midterm and a midterm redo. All exam meetings are
+closed-book and closed-notes. No electronics. Show work for partial
+credit. The redo covers the same general material as the original
+midterm and is intended to provide a substantial second opportunity on
+that portion of the course. Exam dates will be announced in class and
+listed on the schedule; the Final Exam follows the Registrar schedule.
 
 ### Programming Assignments (autograded, pair-programming)
 
@@ -151,7 +153,7 @@ You may resubmit that homework assigment one week after the initial deadline. To
 - We may require an in-person spot check where you explain your code. If you cannot explain your own work, the homework score may be set to zero under the academic integrity policy.
 - Do not post prompts, tests, or solutions during or after the term.
 
-### Algorithm explanation check (in person, choose one option)
+### Algorithm explanation check / viva voce (in person, choose one option)
 
 Every student must complete one brief, individual, no-notes
 explanation in my office. These will be ~10-minute slots signed up for
@@ -182,8 +184,8 @@ one re-try caps the course grade at D+.
 ### Preparation and reading
 
 Assigned reading will be listed on the Schedule page each week.
-Read before class. Quizzes target that preparation and the previous
-class's content. Slides are not posted before class.
+Read before class. The online quizzes and exams assume that
+preparation. Slides are not posted before class.
 
 ## Late Policy
 
@@ -197,8 +199,7 @@ submission, and only for one day afterward. Late tokens are applied
 automatically when you submit late, but you must inform me to open the
 late submission window for you. The one-day window begins at the time
 of the original submission. If you run out of tokens, I will reach
-out. Quizzes and exams are in-class and are not eligible for late
-tokens.
+out. Online quizzes and exams are not eligible for late tokens.
 
 Barring extreme circumstances, no additional ad-hoc extensions will be
 granted. If you require further flexibility, contact your dean of

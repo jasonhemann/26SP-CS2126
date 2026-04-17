@@ -286,20 +286,18 @@ weeks:
         extra_resources:
           - title: "Cormen Ch.11.3 (optional refresher)"
       - day: W
-        title: "Persistent, Extended Example Conchon-Filiatre"
+        title: "Midterm Redo"
         pre_readings: []
         videos: []
-        extra_resources:
-          - title: "Persistent_Union-Find"
-            link: "https://dl.acm.org/doi/10.1145/1292535.1292541"
+        extra_resources: []
 
   - week_offset: 16
     homework: []
     sessions:
       - day: M
-        title: "Exam Review"
+        title: "Final Exam Review"
         topics:
-          - desc: "Exam Review"
+          - desc: "Final Exam Review"
         pre_readings: []
         videos: []
         extra_resources: []
