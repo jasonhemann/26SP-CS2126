@@ -131,7 +131,7 @@ When evaluating your programming submissions, I will give you feedback regarding
 - Not yet: your submission requires significant further work.
 - Cannot assess: I could not evaluate your submission as is; repairs are required before I can do so.
 
-For grading with points, each outcome maps to a percentage of the assignment’s points:
+For grading with points, each outcome maps to a percentage of the assignment's points:
 
 - Got it = 100%
 - Almost there = 85%
@@ -139,13 +139,13 @@ For grading with points, each outcome maps to a percentage of the assignment’s
 - Not yet = 35%
 - Cannot assess = 0% (until repaired and resubmitted as your redo)
 
-Each homework is worth the same share of the “Programming homeworks” category in the grading breakdown. Your score on a homework is the percentage above multiplied by that homework’s points.
+Each homework is worth the same share of the "Programming homeworks" category in the grading breakdown. Your score on a homework is the percentage above multiplied by that homework's points.
 
 ### Resubmissions
 
 Making mistakes and correcting them is a natural part of the learning process. An outcome of On the way or Not yet is not a failure; it means you still have things to learn.
 
-You may resubmit that homework assigment one week after the initial deadline. To determine your recorded homework score, I use the best of the two outcomes (initial or redo) converted by the outcome map above. If your initial outcome was Cannot assess, you must repair it for the redo; otherwise the recorded score remains 0.
+You may resubmit that homework assignment one week after the initial deadline. To determine your recorded homework score, I use the best of the two outcomes (initial or redo) converted by the outcome map above. If your initial outcome was Cannot assess, you must repair it for the redo; otherwise the recorded score remains 0.
 
 ### Autograder and materials protection
 
